@@ -92,3 +92,13 @@ def get_scatter(site, range):
 
 if __name__ == '__main__':
     app.run_server(debug=True, port=8051)
+
+    
+ """
+1 KSC-LC39A 
+2 KSC-LC39A 
+3 0-1000
+4 3000 -4000
+5 FT
+
+"""
